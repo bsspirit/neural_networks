@@ -4,4 +4,4 @@
 
 跟上时代的脚步，我将用R语言详细地介绍神经网络建模和应用的过程，以动手操作为主。说多少理论都不如上手一试。
 
-+ 用R语言10分钟上手神经网络模型,  [http://blog.fens.me/r-nn-neuralnet/](用R语言10分钟上手神经网络模型neuralnet)
++ 用R语言10分钟上手神经网络模型,  <http://blog.fens.me/r-nn-neuralnet/>
