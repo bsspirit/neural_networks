@@ -1,3 +1,9 @@
+#########################################
+# 用R语言10分钟上手神经网络模型
+# http://blog.fens.me/r-nn-neuralnet/
+# author:Dan Zhang
+#########################################
+
 
 library(neuralnet)
 
